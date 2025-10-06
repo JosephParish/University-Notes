@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "058f67889ba5f3ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa2bc2665cb2366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21705cf973a34071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e60fb5aa743c4b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee24e1d6a83e2c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f921a44a9700209c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfd0e3e3d3452143",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f84ce11a0f973101",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f95a69600fe431c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8299f1957a655432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d40bfaad7b6b259e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "4583f6a4f2aad8ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "765d7df369801584",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3744ecef681df906",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f921a44a9700209c",
+  "lastOpenFiles": [
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 17 - Integration Testing.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 16 - Subsystems.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 15 - Using and Designing Exceptions.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 14 - Prototype Stores & Scrum.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 13 - Software Lifecycles 2.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 12 - Software Lifecycles 1.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 11 - JavaFX Canvas.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 10 - Version Control.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 9 - Coding Conventions.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 8 - Storyboarding; Use case, Activity and Sequence Diagrams.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 7 - Class Collaborations.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 6 - Class Hierarchies, Abstract Classes and Interfaces.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 5 - Class design and responsibilities.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 4 - Coursework Info.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 3 - Information Hiding.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 2 - Requirements and UML.md",
+    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 1 - Introduction.md"
+  ]
+}
