@@ -1,3 +1,8 @@
+ 08-10-2025 01:52
+
+Tags: [[Big Data & ML]]
+# **Lecture 2 - Fundamentals Continued**
+
 #### Why is the quantity of data important (not ignoring quality)
 - The ability to generalise
 	- A larger dataset gives a more significant representation of underlying patterns and variability in the data which lets the model generalise better
@@ -98,3 +103,5 @@
 - Finding a lower dimensional representation of data
 	- Useful for compression, visualisation or noise reduction
 	- Unlike regression, the target values are not given, thus its unsupervised
+
+References:

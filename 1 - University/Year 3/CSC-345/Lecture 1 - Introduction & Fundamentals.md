@@ -1,3 +1,8 @@
+ 08-10-2025 01:49
+
+Tags: [[Big Data & ML]] 
+# **Lecture 1 - Introduction & Fundamentals**
+
 #### Big Data: Definition
 - Big data is not a scientific term
 - Refers to extremely large data sets
@@ -90,3 +95,5 @@ etc....
 (f1 here is clearly better), we pick the best function and assign it f*
 
 ![[Pasted image 20250930142129.png]]
+
+References:

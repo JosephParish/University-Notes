@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21705cf973a34071",
+            "id": "170e3fca39c8e771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Docker Demo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Course Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Docker Course Notes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Course Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Docker Course Notes"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Course Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Docker Course Notes"
             }
           }
         ]
@@ -169,24 +169,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "f921a44a9700209c",
+  "active": "170e3fca39c8e771",
   "lastOpenFiles": [
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 17 - Integration Testing.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 16 - Subsystems.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 15 - Using and Designing Exceptions.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 14 - Prototype Stores & Scrum.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 13 - Software Lifecycles 2.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 12 - Software Lifecycles 1.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 11 - JavaFX Canvas.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 10 - Version Control.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 9 - Coding Conventions.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 8 - Storyboarding; Use case, Activity and Sequence Diagrams.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 7 - Class Collaborations.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 6 - Class Hierarchies, Abstract Classes and Interfaces.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 5 - Class design and responsibilities.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 4 - Coursework Info.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 3 - Information Hiding.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 2 - Requirements and UML.md",
-    "1 - University/Year 2/CS-230/Lecture Notes/Lecture 1 - Introduction.md"
+    "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Kubernetes Course/Kubernetes Demo.md",
+    "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Kubernetes Course/Kubernetes Course Notes.md",
+    "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Course Notes.md",
+    "1 - University/Year 3/CSC-345/Unfinished/Lecture 3 - Clustering part 1.md",
+    "4 - Tags/Database.md",
+    "1 - University/Year 3/CSC-348/Unfinished/Lecture 5 - Models and Database Migration.md",
+    "1 - University/Year 3/CSC-348/Unfinished/Lecture 4 - Laravel.md",
+    "1 - University/Year 3/CSC-345/Lecture 1 - Introduction & Fundamentals.md",
+    "1 - University/Year 3/CSC-345/Lecture 2 - Fundamentals Continued.md",
+    "4 - Tags/Framework.md",
+    "4 - Tags/Laravel.md",
+    "1 - University/Year 3/CSC-348/Lecture 3 - HTML Forms.md",
+    "1 - University/Year 3/CSC-368/Unfinished",
+    "1 - University/Year 3/CSC-348/Unfinished",
+    "1 - University/Year 3/CSC-345/Unfinished",
+    "1 - University/Year 3/CSC-368/Unfinished/Lecture 2 - Finite State Modelling.md",
+    "1 - University/Year 3/CSC-368/Lecture 1 - Introduction.md",
+    "1 - University/Year 3/CSC-348/Lecture 2 - Web Protocols.md",
+    "1 - University/Year 3/CSC-348/Lecture 1 - Introduction.md",
+    "4 - Tags/Finite State Modelling.md",
+    "4 - Tags/Embedded System Design.md",
+    "4 - Tags/Web Dev.md",
+    "4 - Tags/Note.md",
+    "4 - Tags/Kubernetes.md",
+    "4 - Tags/HTML.md",
+    "4 - Tags/Docker.md",
+    "4 - Tags/Demo.md",
+    "4 - Tags/Clustering.md",
+    "4 - Tags/Big Data & ML.md",
+    "Deploying containers to cloud",
+    "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Extended Notes",
+    "3 - Images/Capture-137143360.png",
+    "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Kubernetes Course/Extended Notes"
   ]
 }

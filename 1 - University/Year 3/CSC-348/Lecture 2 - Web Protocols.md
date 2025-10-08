@@ -1,3 +1,8 @@
+ 08-10-2025 01:48
+
+Tags: [[HTML]] [[Web Dev]]
+# **Lecture 2 - Web Protocols**
+
 #### URLs:
 - Uniform Resource Locator
 - Protocol :// Host Path
@@ -82,3 +87,5 @@
 		- HTML Forms
 	- A way for the server to change what it sends to the user based on the data it recieves
 		- Server side logic
+
+References:

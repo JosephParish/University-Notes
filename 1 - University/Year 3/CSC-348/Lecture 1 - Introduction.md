@@ -1,3 +1,8 @@
+ 08-10-2025 01:49
+
+Tags: [[Web Dev]]
+# **Lecture 1 - Introduction**
+
 #### Learning Theory (Pyramid)
 - Create
 - Evaluate
@@ -18,3 +23,5 @@
 	- File system (access to the web server)
 	- Web service (with links to the dynamic language interpreter)
 		- An example of a web service would be google authentication
+
+References:

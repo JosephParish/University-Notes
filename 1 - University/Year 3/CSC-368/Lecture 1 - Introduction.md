@@ -1,3 +1,8 @@
+ 08-10-2025 01:59
+
+Tags: [[Embedded System Design]]
+# **Lecture 1 - Introduction**
+
 #### What is an embedded system?
 - An electronic system where software and hardware are integrated to perform a specific function
 - Tends to have size and cost constraints
@@ -6,3 +11,5 @@
 
 y = x and y = 0 are actions
 Yes that is all you need. The X<0 and X>=0 are guards.
+
+References:

@@ -1,4 +1,4 @@
- 08-10-2025 01:57
+{{date: DD-MM-YYYY}} {{time}}
 
 ### What is this Tag about?
 

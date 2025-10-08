@@ -1,3 +1,8 @@
+ 08-10-2025 01:47
+
+Tags: [[HTML]] [[Web Dev]]
+# **Lecture 3 - HTML Forms**
+
 #### HTML Forms
 - A fundamental method for collecting information from the user within a browser and adding it to the request
 - Data can be sent via 2 methods:
@@ -128,3 +133,5 @@
 #### Issues with "raw" PHP
 - It doesnt solve the issues of repeated code and mixed responsibilities.
 - The fix? Laravel! (A web framework
+
+References:
