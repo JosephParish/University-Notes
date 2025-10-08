@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa2bc2665cb2366",
+        "id": "a2acbde37da1043f",
         "type": "tabs",
         "children": [
           {
-            "id": "170e3fca39c8e771",
+            "id": "da4889e62dbfed12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Demo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Demo"
+              "title": "README"
             }
           }
         ]
@@ -169,8 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "170e3fca39c8e771",
+  "active": "da4889e62dbfed12",
   "lastOpenFiles": [
+    "1 - University/Year 2/CS-205/Lecture Notes/Lecture 1 - Introduction.md",
+    "README.md",
+    "1 - University/Year 2/CS-253 (Unfinished!!!)",
+    "1 - University/Year 2/CS-210/Lecture Notes/Lecture 1 - Intro.md",
+    "1 - University/Year 2/CS-203/Lecture Notes/Lecture 1 - Introducton.md",
+    "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Demo.md",
     "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Kubernetes Course/Kubernetes Demo.md",
     "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Kubernetes Course/Kubernetes Course Notes.md",
     "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Docker Course Notes.md",
@@ -194,12 +200,6 @@
     "4 - Tags/Embedded System Design.md",
     "4 - Tags/Web Dev.md",
     "4 - Tags/Note.md",
-    "4 - Tags/Kubernetes.md",
-    "4 - Tags/HTML.md",
-    "4 - Tags/Docker.md",
-    "4 - Tags/Demo.md",
-    "4 - Tags/Clustering.md",
-    "4 - Tags/Big Data & ML.md",
     "Deploying containers to cloud",
     "2 - ExtraCurricular/Computer Science/Docker and Kubernetes/Docker Course/Extended Notes",
     "3 - Images/Capture-137143360.png",
